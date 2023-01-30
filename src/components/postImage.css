@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#size{
+    width: 1080px;
+    height: 1080px;
+    background: #7145d6;
+    position: absolute;
+}
+#mention p{
+    color: white;
+    padding-left: 34px;
+    font-size: 26px;
+    
+}
+.logo{
+    padding-top: 967px;
+    padding-left: 928px;
+}
+.logo img{
+    position: absolute;
+}
+
+#download{
+    position: absolute;
+}
